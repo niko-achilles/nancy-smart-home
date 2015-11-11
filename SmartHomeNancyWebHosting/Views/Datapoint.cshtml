@@ -1,0 +1,24 @@
+﻿@inherits Nancy.ViewEngines.Razor.NancyRazorViewBase<SmartHomeNancy.Model.Datapoint[]>
+
+<html>
+<head>
+    <title>Datapoints</title>
+</head>
+<body>
+    <h1>Smart Home Datapoints</h1>
+    <table>
+        <th>Name</th>
+        <th>Value</th>
+        @foreach (var datapoint in @Model)
+        {
+            <tr><td>@datapoint.Name</td><td>@datapoint.Value</td></tr>
+        }
+    </table>
+    <h1>Add datapoint</h1>
+    <form action="/datapoints/" method="post">
+        <input type="text" name="name" value="name" />
+        <input type="text" name="value" value="value" />
+        <input type="submit" value="add" />
+    </form>
+</body>
+</html>
