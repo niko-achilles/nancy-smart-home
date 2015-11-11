@@ -7,7 +7,7 @@
 // <email>nik.kokkinos@windowslive.com</email>
 // <date>28.01.2015</date>
 // <project>SmartHomeNancy</project>
-// <web>http://nikolaoskokkinos.wordpress.com/</web>
+// <web>http://nikolaoskokkinos.wordpress.com/</web
 // ****************************************************************************
 
 using Nancy;
