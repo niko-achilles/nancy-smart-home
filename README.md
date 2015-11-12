@@ -3,7 +3,7 @@
 ##Demostration of Nancy Http Framework with Raspberry Pi .NET User Group Rhein/Ruhr
 https://www.xing.com/events/nancy-http-framework-1499226?sc_o=si1942_com
 
-##Referent: Niko Kokkinos
+Referent: Niko Kokkinos
 
 EN:
 Nancy (http://nancyfx.org/) is a lightweight .NET-based Http Framework.
