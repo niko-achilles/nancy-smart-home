@@ -1,8 +1,3 @@
-﻿// ****************************************************************************
-// <copyright file="DatapointsModule.cs" author="Nikolaos Kokkinos">
-// Copyright © Nikolaos Kokkinos
-// </copyright>
-// ****************************************************************************
 // <author>Nikolaos Kokkinos</author>
 // <email>nik.kokkinos@windowslive.com</email>
 // <date>28.01.2015</date>
