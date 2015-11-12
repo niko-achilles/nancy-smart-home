@@ -1,7 +1,3 @@
-﻿// ****************************************************************************
-// <copyright file="IDataStore.cs" author="Nikolaos Kokkinos">
-// Copyright © Nikolaos Kokkinos
-// </copyright>
 // ****************************************************************************
 // <author>Nikolaos Kokkinos</author>
 // <email>nik.kokkinos@windowslive.com</email>
