@@ -14,7 +14,9 @@ Nancy (http://nancyfx.org/) ist am ehestens mit der ASP.NET WebAPI vergleichbar.
 Warum es sich lohnt, diese Alternative zu evaluieren, wird Nikolaos in Visual Studio 2013 demonstrieren 
 und auch die Verwendung in einem Embedded System (Raspberry) zeigen.
 
-For more infomartion read the Book from Christian Horsdal, Instant Nancy Web Development, Publisher: Packt Publishing
+Recommend to read the Book by Christian Horsdal, Instant Nancy Web Development, Publisher: Packt Publishing
 https://www.packtpub.com/web-development/instant-nancy-web-development-instant
+
+NancyFX Framework: https://github.com/NancyFx
 
 
