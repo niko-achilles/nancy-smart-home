@@ -27,9 +27,7 @@ namespace SmartHomeNancyTests
         public void SetUp()
         {
             var dataStore = new InMemoryDataStore();
-            dataStore.Store.Clear();
-
-
+            
             sut = new Browser(new Bootstrapper());
 
             aDatapoint = new Datapoint
