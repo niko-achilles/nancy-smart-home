@@ -1,6 +1,6 @@
 # nancy-smart-home
 
-##Demostration of Nancy Http Framework with Raspberry Pi .NET User Group Rhein/Ruhr
+## Demostration of Nancy Http Framework with Raspberry Pi .NET User Group Rhein/Ruhr
 https://www.xing.com/events/nancy-http-framework-1499226?sc_o=si1942_com
 
 Referent: Niko Kokkinos
@@ -13,9 +13,6 @@ DE:
 Nancy (http://nancyfx.org/) ist am ehestens mit der ASP.NET WebAPI vergleichbar. 
 Warum es sich lohnt, diese Alternative zu evaluieren, wird Nikolaos in Visual Studio 2013 demonstrieren 
 und auch die Verwendung in einem Embedded System (Raspberry) zeigen.
-
-Recommend to read the Book by Christian Horsdal, Instant Nancy Web Development, Publisher: Packt Publishing
-https://www.packtpub.com/web-development/instant-nancy-web-development-instant
 
 NancyFX Framework: https://github.com/NancyFx
 
